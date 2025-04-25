@@ -22,11 +22,10 @@ Many common houseplants are **dangerous to cats** — even fatal. Toxicat is her
 
 ## 🛠 Tech Stack
 
-| Frontend        | Backend                            |
-| --------------- | ---------------------------------- |
-| React / Next.js | Node.js / Express                  |
-| Tailwind CSS    | MongoDB (or your DB of choice)     |
-| Vite / Webpack  | REST API / GraphQL (if applicable) |
+| Frontend        | Backend           |
+| --------------- | ----------------- |
+| React / Next.js | Node.js / Nest.js |
+| Tailwind CSS    | PostgreSQL        |
 
 ---
 
